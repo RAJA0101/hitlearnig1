@@ -1,4 +1,4 @@
 creating test1.txt file
 first line
-second line
+second line   //this is new second line
 theard line
